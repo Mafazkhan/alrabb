@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "973035677095",
+    "project_id": "alrabb-fd65f",
+    "storage_bucket": "alrabb-fd65f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973035677095:android:7b4dd84730ec05ee414282",
+        "android_client_info": {
+          "package_name": "com.example.alrabb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "973035677095-fs0jdhimo2sokecfebt7bagsf61d03ta.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDU8xP6r5yUJNcZvEWIELmFZZRYuLzs_MU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "973035677095-fs0jdhimo2sokecfebt7bagsf61d03ta.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
